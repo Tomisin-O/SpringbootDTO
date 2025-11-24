@@ -1,0 +1,9 @@
+/Users/tomisinonasanya/Documents/SpringbootDTO/src/main/java/com/example/springboot_dto_tutorial/SpringbootDtoTutorialApplication.java
+/Users/tomisinonasanya/Documents/SpringbootDTO/src/main/java/com/example/springboot_dto_tutorial/controller/UserController.java
+/Users/tomisinonasanya/Documents/SpringbootDTO/src/main/java/com/example/springboot_dto_tutorial/dto/UserLocationDTO.java
+/Users/tomisinonasanya/Documents/SpringbootDTO/src/main/java/com/example/springboot_dto_tutorial/model/Location.java
+/Users/tomisinonasanya/Documents/SpringbootDTO/src/main/java/com/example/springboot_dto_tutorial/model/User.java
+/Users/tomisinonasanya/Documents/SpringbootDTO/src/main/java/com/example/springboot_dto_tutorial/package-info.java
+/Users/tomisinonasanya/Documents/SpringbootDTO/src/main/java/com/example/springboot_dto_tutorial/repository/LocationRepository.java
+/Users/tomisinonasanya/Documents/SpringbootDTO/src/main/java/com/example/springboot_dto_tutorial/repository/UserRepository.java
+/Users/tomisinonasanya/Documents/SpringbootDTO/src/main/java/com/example/springboot_dto_tutorial/service/UserService.java
